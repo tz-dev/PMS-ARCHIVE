@@ -29,7 +29,7 @@ The problem was more specific and more serious:
 
 > **We could not demonstrate a relevant PMS-specific epistemic contribution of the base grammar over simpler or more theory-neutral alternatives.**
 
-A large amount of high-quality work had been produced **under PMS**.
+A large amount of carefully developed and highly structured work had been produced **under PMS**.
 
 That is not the same claim as showing that **PMS itself produced the quality**.
 
@@ -118,7 +118,7 @@ PMS did not establish that sufficiently.
 
 ## The Central Epistemic Lesson
 
-The project demonstrated how far a framework can be developed when several strong ingredients coincide:
+The history of the project illustrates how far a framework can be developed when several strong ingredients coincide:
 
 - real domain knowledge;
 - careful reasoning;
@@ -234,7 +234,7 @@ nor:
 
 A better description is:
 
-> **PMS was an unusually extensive, coherent, and internally disciplined descriptive framework under which a large amount of high-quality work was produced, but no relevant specific epistemic advantage of its underlying grammar over more neutral alternatives could ultimately be established.**
+> **PMS was an unusually extensive, coherent, and internally disciplined descriptive framework under which a large amount of carefully developed and highly structured work was produced, but no relevant specific epistemic advantage of its underlying grammar over more neutral alternatives could ultimately be established.**
 
 The project is preserved because that history may itself be useful.
 
@@ -244,4 +244,4 @@ It is this:
 
 > **How far can genuine knowledge, strong methodology, an elastic formal vocabulary, and a powerful generative model carry a flawed meta-framework before the framework's missing independent contribution becomes visible?**
 
-This archive documents one attempt to find out.
+This archive now provides one case through which that question can be examined.
