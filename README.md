@@ -186,7 +186,8 @@ Possible value is most plausibly located in independently extractable elements s
 - failure and stop handling;
 - workflow and repository design;
 - structured YAML representations;
-- and possible analytical scaffolds for language models.
+- and possible analytical scaffolds for language models;
+- the use of a uniform cross-domain representation for otherwise heterogeneous praxis descriptions, considered strictly as a representational or engineering affordance rather than an epistemic advantage.
 
 These possibilities should not be interpreted as a residual defense of PMS.
 
